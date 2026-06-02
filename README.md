@@ -24,4 +24,4 @@ The dashboard provides a holistic view of the store's performance across channel
 
 ## Snapshot
 
-![Project Screenshot]()
+![Project Screenshot](https://github.com/HRSalet/Excel-Project-Online-Store-Annual-Report/blob/main/Annual%20report%20snapshot.png)
